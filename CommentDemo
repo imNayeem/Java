@@ -1,0 +1,12 @@
+package com.mycompany.october15;
+public class CommentDemo {
+    public static void main(String[] args){
+        
+        System.out.println("Mohammad Nayeem");      //display my name
+        /*I
+        am
+        Mohammad
+        Nayeem
+        */
+    }
+}
