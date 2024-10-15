@@ -1,0 +1,11 @@
+package com.mycompany.october15;
+public class Escapesequence {
+    public static void main(String[] args){
+        System.out.println("Mohamamd Nayeem \n01521332185 \nIdeal School and College");
+        System.out.println("1 \t 2");
+        System.out.println("3 \t 4");
+        System.out.println("5 \t 6");
+        System.out.println("\"Mohamamd Nayeem\" \n01521332185 \nIdeal School and College");
+    }
+    
+}
